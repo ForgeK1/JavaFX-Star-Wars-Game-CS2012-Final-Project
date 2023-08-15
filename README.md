@@ -1,5 +1,5 @@
 # JavaFX-Star-Wars-Game-CS2012-Final-Project
-This is my final (single person) project for CS 2012! Utilizing the concepts we learned throughout the semester, we were tasked to create a fully functioning game in JavaFX.
+This is my final (single-person) project for CS 2012! Utilizing the concepts we learned throughout the semester, we were tasked to create a fully functioning game GUI utilizing JavaFX.
 
 Name of the project: "Food Kingdom"
 
