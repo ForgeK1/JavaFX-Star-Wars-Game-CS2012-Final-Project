@@ -3,6 +3,6 @@
 
 **Name of the project🏷️**: "The Final Showdown Against Darth Vader!"
 
-**Game Description📖**: With unwavering determination, Luke Skywalker strides into the treacherous depths of the Death Star, his heart set on confronting the menacing presence of Darth Vader, his father-turned-nemesis, prepared to face his greatest challenge and potentially alter the course of their intertwined destinies forever ⚔️.
+**Game Description⚔️**: With unwavering determination, Luke Skywalker strides into the treacherous depths of the Death Star, his heart set on confronting the menacing presence of Darth Vader, his father-turned-nemesis, prepared to face his greatest challenge and potentially alter the course of their intertwined destinies forever.
 
 **A step-by-step guide pdf on how to install and play the game!📜**: 
