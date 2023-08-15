@@ -1,5 +1,5 @@
 # JavaFX-Star-Wars-Game-CS2012-Final-Project
-**My final (single-person) project for CS 2012!👾**: Utilizing the concepts we learned throughout the semester, we were tasked to create a fully functioning game GUI utilizing JavaFX.
+**My final (single-person) project for CS 2012!👾**: Utilizing the concepts we learned throughout the semester, we were tasked to create a fully functioning game GUI utilizing JavaFX and the Java language on Eclipse.
 
 **Name of the project🏷️**: "The Final Showdown Against Darth Vader!"
 
