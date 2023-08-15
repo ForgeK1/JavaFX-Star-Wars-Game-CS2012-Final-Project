@@ -1,10 +1,8 @@
 # JavaFX-Star-Wars-Game-CS2012-Final-Project
 This is my final (single-person) project for CS 2012! Utilizing the concepts we learned throughout the semester, we were tasked to create a fully functioning game GUI utilizing JavaFX.
 
-Name of the project: "Food Kingdom"
+Name of the project: "The Final Showdown Against Darth Vader!"
 
-Game Description: The King has fallen ill and it your your job as head chef to attain a sum amount of ingredients to make a dish that will heal the King! You will be going through the grocery aile and encountering many different challenges to attain ingredients. Once you collected a good amount of ingredients you can leave the aile to make your dish 🍲.
+Game Description: With unwavering determination, Luke Skywalker strides into the treacherous depths of the Death Star, his heart set on confronting the menacing presence of Darth Vader, his father-turned-nemesis, prepared to face his greatest challenge and potentially alter the course of their intertwined destinies forever ⚔️.
 
-How to play the game: 
-
-How to download the game: 
+A step-by-step guide pdf on how to install and play the game!: 
