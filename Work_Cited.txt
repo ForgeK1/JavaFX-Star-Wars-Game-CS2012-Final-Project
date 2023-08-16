@@ -1,0 +1,28 @@
+1) Themes for the Game: 
+    - Star_Wars_Main_Theme: https://www.youtube.com/watch?v=e9lapdvLSGw&pp=ygUUc3RhciB3YXJzIG1haW4gdGhlbWU%3D
+
+2) How I learned to utilize music in JavaFX: https://youtu.be/BZhvnASk1b0
+
+3) How I learned to play around with the Font class: https://www.tutorialspoint.com/javafx/javafx_text.htm
+
+4) Main_Menu_Background_Images (Main Menu Borders): https://dioramaworkshop.com/tutorials-decals-death-star-hallway-basic-wall-panels/
+
+5) How I learned to change the color of the background after the Scene color forcefully becomes white when adding a button: https://stackoverflow.com/questions/62284680/scene-color-becomes-white-when-adding-button
+
+6) Darth_Vader_And Luke_Level_Selector_Background.jpg found from https://www.peakpx.com/en/hd-wallpaper-desktop-adlos
+
+7) How I learned to change the alighnment of the Border Pane: https://youtu.be/UP7u63R0MZU
+
+8) Main Menu Wallpaper: https://www.peakpx.com/en/hd-wallpaper-desktop-adlos
+
+9) Level Selector Wallpaper: https://www.polygon.com/23432866/star-wars-the-deckbuilding-game-pre-order-announcement-release-date-price
+
+10) Watching these YouTube videos to learn how GridPane works: https://youtu.be/InjJ8LcPqck and https://youtu.be/YtKF1JKtRWM
+
+11) Faction Console Screens (Images): https://deadlystream.com/files/file/113-faction-console-screens-in-game-menus/
+
+https://deadlystream.com/files/file/332-widescreen-ui-fix-for-knights-of-the-old-republic-2-the-sith-lords/
+
+12) Learned to use Scroll Pane from in class examples and from this website: https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/ScrollBar.html
+
+13) Learned how to use arrow keys for my Lambda Expressions: https://www.youtube.com/watch?v=rQ0VtKHTaxM
