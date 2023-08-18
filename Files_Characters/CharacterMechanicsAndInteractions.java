@@ -318,7 +318,7 @@ public class CharacterMechanicsAndInteractions
 			
 			switch(kc) 
 			{
-				case UP: 
+				case W: 
 					//Print statement to test case W
 //							System.out.println("\nYou pressed the W key");
 					
