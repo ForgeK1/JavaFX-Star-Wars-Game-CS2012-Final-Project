@@ -7,4 +7,4 @@
 
 **A step-by-step guide PDF on how to install and play the game!📜**: https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:70f6030a-4a5d-3e1d-945a-824c98f1c782
 
-Note: Work Cited file indicated by the PDF above is located in the main branch if you want to check it out. 
+**_IMPORTANT_**: If you DO NOT have JavaFX set up and do not have the JavaFX20 Library, then follow this tutorial to set both of them up in Eclipse (https://calstatela.instructuremedia.com/embed/ba39aa72-2376-4458-b119-d4c256b7985b) 
