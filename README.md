@@ -10,3 +10,4 @@
 🚨 **_IMPORTANT_** 🚨: If you DO NOT have JavaFX set up AND have the JavaFX20 Library, then follow this tutorial to set both of them up in Eclipse (https://calstatela.instructuremedia.com/embed/ba39aa72-2376-4458-b119-d4c256b7985b) 
 
 JavaFX20 Download Page: https://gluonhq.com/products/javafx/
+Arguments to use for library: --module-path "/path/to/javafx/lib" --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web
