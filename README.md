@@ -9,7 +9,7 @@
 
 **A step-by-step guide PDF on how to install and play the game!📜**: https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:70f6030a-4a5d-3e1d-945a-824c98f1c782
 
-🚨 **_IMPORTANT_** 🚨: If you DO NOT have JavaFX set up AND have the JavaFX20 Library, then follow this **_tutorial_** to set both of them up in Eclipse (https://calstatela.instructuremedia.com/embed/ba39aa72-2376-4458-b119-d4c256b7985b) 
+🚨 **_IMPORTANT_** 🚨: If you DO NOT have JavaFX set up AND have the JavaFX20 Library, then follow this **_tutorial_** to set both of them up in Eclipse: [How to set up JavaFX in Eclipse in 2023 (under 5 minutes)](https://youtu.be/nz8P528uGjk) 
 
 JavaFX20 Download Page: https://gluonhq.com/products/javafx/
 
