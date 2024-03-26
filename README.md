@@ -1,5 +1,5 @@
 # JavaFX-Star-Wars-Game-CS2012-Final-Project
-**My final (single-person) project for CS 2012!👾**: Utilizing the concepts we learned throughout the semester, we were tasked to create a fully functioning game GUI utilizing JavaFX and the Java language on Eclipse.
+**My final project for CS 2012!👾**: Utilizing the concepts we learned throughout the semester, we were tasked to create a fully functioning game GUI utilizing JavaFX and the Java language on Eclipse.
 
 Click to see --> [**GAMEPLAY VIDEO OF FINAL PROJECT🎥**](https://photos.onedrive.com/share/C6CD408D2923892F!31729?cid=C6CD408D2923892F&resId=C6CD408D2923892F!31729&authkey=!ANmNCDYQwxWEEew&ithint=video&e=M9ziKj) <--
 
