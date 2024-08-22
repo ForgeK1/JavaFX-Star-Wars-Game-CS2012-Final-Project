@@ -1,16 +1,18 @@
 # JavaFX-Star-Wars-Game-CS2012-Final-Project
 My final project for CS 2012! Utilizing the concepts we learned throughout the semester, I was tasked to create a fully functioning game GUI utilizing JavaFX and the Java language on Eclipse 🖥️.
 
-Click to see --> [**GAMEPLAY VIDEO OF FINAL PROJECT🎥**](https://photos.onedrive.com/share/C6CD408D2923892F!31729?cid=C6CD408D2923892F&resId=C6CD408D2923892F!31729&authkey=!ANmNCDYQwxWEEew&ithint=video&e=M9ziKj) <--
+Name of the project 🏷️: "The Final Showdown Against Darth Vader!"
 
-**Name of the project 🏷️**: "The Final Showdown Against Darth Vader!"
+A video and step-by-step guide document of the game are attached for you to check out!📜
 
-**Game Description ⚔️**: With unwavering determination, Luke Skywalker strides into the treacherous depths of the Death Star, his heart set on confronting the menacing presence of Darth Vader, his father-turned-nemesis, prepared to face his greatest challenge and potentially alter the course of their intertwined destinies forever.
+• [**GAMEPLAY VIDEO OF FINAL PROJECT🎥**](https://photos.onedrive.com/share/C6CD408D2923892F!31729?cid=C6CD408D2923892F&resId=C6CD408D2923892F!31729&authkey=!ANmNCDYQwxWEEew&ithint=video&e=M9ziKj) 
 
-Click to see --> [**A step-by-step guide PDF on how to install and play the game!📜**](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:70f6030a-4a5d-3e1d-945a-824c98f1c782) <--
+• [**Star Wars Game GUI Gameplay Tutorial PDF**](https://github.com/user-attachments/files/16719047/Star.Wars.Game.GUI.Gameplay.Tutorial.pdf)
 
-🚨 **_IMPORTANT_** 🚨: If you DO NOT have JavaFX set up AND have the JavaFX20 Library, then follow this **_YouTube tutorial_** to set both of them up in Eclipse: [How to set up JavaFX in Eclipse in 2023 (under 5 minutes)](https://youtu.be/nz8P528uGjk) 
+List of skills and achievements:
 
-JavaFX20 Download Page: https://gluonhq.com/products/javafx/
+• Built an application with 16 classes to handle player functionality, interactable characters and objects, 3 gameplay scenes, and 6 possible outcomes using over 5000 lines of code.
 
-Arguments to use for library: --module-path "/path/to/javafx/lib" --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web
+• Designed a player class with 20 methods to keep the player within grid boundaries and manage interactions with 8 different NPC objects.
+
+• Created a dynamic audio manager that smoothly alternates between 15 audio tracks based on user interactions and the current scene.
