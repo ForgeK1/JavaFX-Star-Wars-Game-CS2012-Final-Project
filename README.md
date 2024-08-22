@@ -5,7 +5,7 @@ Name of the project 🏷️: "The Final Showdown Against Darth Vader!"
 
 [**GAMEPLAY VIDEO OF FINAL PROJECT🎥**](https://photos.onedrive.com/share/C6CD408D2923892F!31729?cid=C6CD408D2923892F&resId=C6CD408D2923892F!31729&authkey=!ANmNCDYQwxWEEew&ithint=video&e=M9ziKj) 
 
-[**Star Wars Game GUI Gameplay Tutorial PDF**](https://github.com/user-attachments/files/16719047/Star.Wars.Game.GUI.Gameplay.Tutorial.pdf)
+[**Star Wars Game GUI Gameplay Tutorial PDF**](https://github.com/user-attachments/files/16719258/Star.Wars.Game.GUI.Gameplay.Tutorial.pdf)
 
 List of skills and achievements:
 
