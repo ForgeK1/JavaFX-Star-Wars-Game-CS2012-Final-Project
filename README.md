@@ -5,6 +5,6 @@ Name of the project 🏷️: "The Final Showdown Against Darth Vader!"
 
 A video trailer and step-by-step guide document of the game are attached for you to check out!📜
 
-[**GAMEPLAY VIDEO OF FINAL PROJECT 🎥**](https://drive.google.com/file/d/1Mrx-izFJz4wZTtNqiL4JPYxzdXv9-R_M/view?usp=sharing) 
+[**Gameplay video of my final project 🎥**](https://drive.google.com/file/d/1Mrx-izFJz4wZTtNqiL4JPYxzdXv9-R_M/view?usp=sharing) 
 
 [**Star Wars Game GUI Gameplay Tutorial PDF**](https://github.com/user-attachments/files/16719258/Star.Wars.Game.GUI.Gameplay.Tutorial.pdf)
